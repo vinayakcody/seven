@@ -3,8 +3,8 @@ import datetime
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '6913030366:AAEtMr3xpYaioIzEk7iYT_Mio7YgXrEjluE'
-ADMIN_USER_IDS = {7383077317}  # Add your admin IDs here as a set
+TELEGRAM_BOT_TOKEN = '7151529676:AAH96JE0iX0_UOufbU64Z7S_hcXu5wIQc-A'
+ADMIN_USER_IDS = {1066744659, 7383077317, 8159441634, 6265999727, 482756202, 6240348610, 1253267234, 1583238165, 1202212810, 6140583954, 1432056322}  # Add your admin IDs here as a set
 USERS_FILE = 'users.txt'
 LOG_FILE = 'log.txt'
 attack_in_progress = False
